@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Le Chemin</string>
+    <string name="Paramètres">Ayarlar</string>
+    <string name="langue">Uygulama Dili:</string>
+    <string name="jaifait">İlerle</string>
+    <string name="startfait">Başla</string>
+    <string name="finishfait">Bitti!</string>
+    <string name="welcometext">Hoş geldiniz</string>
+    <string name="finishtext">Bütün görevleri tamamladın. Düşünmeye devam et</string>
+    <string name="attention">Her soru için 5 dakikadan fazla düşünmeniz hedeflenmiştir</string>
+    <string name="letexte">Yazı burada gözükecektir</string>
+    <string name="Aller">Başla</string>
+    <string name="tache1">uzun zamandır aramadığın bir arkadaşını ara</string>
+    <string name="question1">ne hissettin? arkadaşlık önemli midir? niçin?</string>
+    <string name="tache2">yemekhanedeki çalışana kolay gelsin de</string>
+    <string name="question2">niçin nazik olmalıyız?</string>
+    <string name="tache3">arkadaşına ufak bir şeyler ısmarla</string>
+    <string name="question3">böyle küçük şeyler değerli midir?</string>
+    <string name="tache4">hayalini kurduğun şeylere ulaştığını hayal et</string>
+    <string name="question4">bir şeye sahip olduğumuzda o şey değerini mi yitirir?</string>
+    <string name="tache5">bir sokak hayvanını besle</string>
+    <string name="question5">hayvanların önemi nedir? birisine yardım etmek bizi neden mutlu eder?</string>
+    <string name="tache6">en sevdiğin müziği aç ve gözlerini kapatıp dinle</string>
+    <string name="question6">ne hissettin? sence müziğin amacı nedir?</string>
+    <string name="tache7">arkadaşlarınla buluş ve birlikte vakit geçirin</string>
+    <string name="question7">arkadaşlık önemli midir, neden?</string>
+    <string name="tache8">20 sayfa kitap oku</string>
+    <string name="question8">doğru olan şeyleri yapmak neden zordur?</string>
+    <string name="tache9">seni mutlu eden şeyleri düşün ve birini yap</string>
+    <string name="question9">ne olduğunda mutlu oluruz?</string>
+    <string name="tache10">uzun zamandır ertelediğin o şeyi yap</string>
+    <string name="question10">nasıl hissettin?</string>
+    <string name="tache11">yeşil bir alanda vakit geçir</string>
+    <string name="question11">doğada vakit geçirmek bize neden genelde huzurlu gelir?</string>
+    <string name="tache12">huzurlu bir geleceğe sahip olduğunu hayal et. nasıl bir yaşantın olurdu?</string>
+    <string name="question12">sence huzur nedir? olaylar sonucunda mı oluşur yoksa bir yaşama biçiminin meyvesi midir? ya da başka ne olabilir?</string>
+    <string name="tache13">güvendiğin bir insana onu ne kadar sevdiğini söyle</string>
+    <string name="question13">güvendiğimiz insanlarla güvenmediğimiz insanlar arasındaki fark nedir?</string>
+    <string name="tache14">tek başına bir yürüyüşe çık ve düşün</string>
+    <string name="question14">neler düşündün? kendimizle vakit geçirmek önemli midir?</string>
+    <string name="tache15">birisine ufak bir hediye al</string>
+    <string name="question15">hediyeleşmek neden mutluluk vericidir?</string>
+    <string name="tache16">yeni birisiyle tanış</string>
+    <string name="question16">dünya büyük bir yer midir küçük bir yer midir?</string>
+</resources>
