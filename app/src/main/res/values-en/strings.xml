@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Way</string>
+    <string name="Paramètres">Settings</string>
+    <string name="langue">Language:</string>
+    <string name="jaifait">Next</string>
+    <string name="startfait">Start</string>
+    <string name="finishfait">Congrats</string>
+    <string name="welcometext">Welcome</string>
+    <string name="finishtext">You accomplished all of the tasks. Continue your journey</string>
+    <string name="attention">It is aimed to make you think more than 5 minutes for each question</string>
+    <string name="letexte">Text is visible</string>
+    <string name="Aller">Start</string>
+    <string name="tache1">Call a pal that you didn\'t speak for a long time</string>
+    <string name="question1">What did you feel?</string>
+    <string name="tache2">Return thanks to the cafeteria staff</string>
+    <string name="question2">Why we should be kind?</string>
+    <string name="tache3">Offer your friend a cup of tea/coffee</string>
+    <string name="question3">Can little things like that be precious?</string>
+    <string name="tache4">Imagine achieving the things you dreamed of, imagine living your dreams</string>
+    <string name="question4">Is it as shiny and brilliant as you dreamed? Do the things lose their value when we get them?</string>
+    <string name="tache5">Feed a stray animal</string>
+    <string name="question5">Are animals important? Why we feel good when we help someone?</string>
+    <string name="tache6">Listen your favorite music with closed eyes</string>
+    <string name="question6">What did you feel? What is the purpose of music?</string>
+    <string name="tache7">Meet up with your friends and spend time together</string>
+    <string name="question7">Is friendship important, why?</string>
+    <string name="tache8">Read 20 pages</string>
+    <string name="question8">Why doing the right thing is often harder ?</string>
+    <string name="tache9">Think about the things that make you happy and try one</string>
+    <string name="question9">What makes us happy?</string>
+    <string name="tache10">Do that thing you\'ve been putting off for so long</string>
+    <string name="question10">What did you feel?</string>
+    <string name="tache11">Spend time in a green space</string>
+    <string name="question11">Was it restful? Why nature makes us calm and peaceful?</string>
+    <string name="tache12">Imagine having a peaceful life in the future. What kind of life that would have been? For example, how would be your daily routine?</string>
+    <string name="question12">What is peace? A result of actions or a consequence of habitudes? Or else?</string>
+    <string name="tache13">Say a person you rely on how much you love him</string>
+    <string name="question13">What is the difference between people we trust and we don\'t trust</string>
+    <string name="tache14">Take a walk alone and think what you want</string>
+    <string name="question14">What did you think? Is it important to spend time with ourselves?</string>
+    <string name="tache15">Gift something to someone</string>
+    <string name="question15">Why receiving gifts make us happy?</string>
+    <string name="tache16">Meet a new person</string>
+    <string name="question16">It is a small world, isn\'t it?</string>
+</resources>
